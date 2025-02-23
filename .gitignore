@@ -10,3 +10,6 @@ cmake_install.cmake
 Makefile
 .idea
 .vs
+
+visualization.txt
+pcd_nouse
